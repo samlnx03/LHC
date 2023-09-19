@@ -1,6 +1,6 @@
-mkdir t2 t3
-touch f1.txt f1.pdf
-mkdir -p t1/d1 t1/d2 t1/d3
-cd t1/d1
+mkdir algebra calculo
+touch file1.txt file1.pdf
+mkdir -p fisica/d1 fisica/d2 fisica/d3
+cd fisica/d1
 touch f2.pdf 
 cd
