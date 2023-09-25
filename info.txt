@@ -1,0 +1,10 @@
+
+# cada pregunta dos puntos
+#1 copiar todos los archivos pdf del directorio lhc al directorio pendientes
+#2 copiar todos los archivos que empiecen con 1 en el directorio lhc sin importar la extensión que tengan (pero que tengan) al directorio proyectos
+#3 todos los archivos que empiecen con gp y tengan extension png deben de cambiarse del directorio donde estan al directorio revisados
+#4 eliminar de tareas todos los archivos que tenga al menos una p ya sea en el nombre o en la extensión
+#5 cambiar el nombre al archivo info.txt, el nuevo nombre debe ser readme.txt
+
+#agregue las fotos necesarias como evidencia de que respondió cada pregunta
+
